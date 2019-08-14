@@ -1,6 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "first post", "author": "Apolo Du" } 
+    { "id": 1, "title": "first post", "author": "Apolo Du" } ,
+        { "id": 2, "title": "second post", "author": "Apolo Du" } ,
+        { "id": 3, "title": "third post", "author": "Apolo Du" } ,
+        { "id": 4, "title": "fourth post", "author": "Apolo Du" } ,
+        { "id": 5, "title": "fifth post", "author": "Apolo Du" } ,
+
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
